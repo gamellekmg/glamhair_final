@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/glamhair_final/static/css/main.712cb84d.css",
+    "main.js": "/glamhair_final/static/js/main.0bd6acee.js",
+    "static/js/453.81cbd2e5.chunk.js": "/glamhair_final/static/js/453.81cbd2e5.chunk.js",
+    "static/media/homevideo.mov": "/glamhair_final/static/media/homevideo.e26779374b9d6bbfe61c.mov",
+    "static/media/wig3.png": "/glamhair_final/static/media/wig3.f55227ba57de828fee15.png",
+    "static/media/wig13.jpg": "/glamhair_final/static/media/wig13.d585525622a8c1eb8b7d.jpg",
+    "static/media/wig1a.jpg": "/glamhair_final/static/media/wig1a.98ac5d2345035c6a911a.jpg",
+    "static/media/wig6.jpg": "/glamhair_final/static/media/wig6.105343f069fd4a7cfb6b.jpg",
+    "static/media/wig0.jpg": "/glamhair_final/static/media/wig0.6d4049d62e47177a6edd.jpg",
+    "static/media/wig8.jpg": "/glamhair_final/static/media/wig8.f19bda0e7a4bec6fc111.jpg",
+    "static/media/revicons.eot": "/glamhair_final/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/glamhair_final/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/glamhair_final/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/glamhair_final/index.html",
+    "static/media/getFetch.cjs": "/glamhair_final/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.712cb84d.css.map": "/glamhair_final/static/css/main.712cb84d.css.map",
+    "main.0bd6acee.js.map": "/glamhair_final/static/js/main.0bd6acee.js.map",
+    "453.81cbd2e5.chunk.js.map": "/glamhair_final/static/js/453.81cbd2e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712cb84d.css",
+    "static/js/main.0bd6acee.js"
+  ]
+}
