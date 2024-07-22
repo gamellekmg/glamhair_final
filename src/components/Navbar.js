@@ -17,7 +17,7 @@ function Navbar() {
       <div className='navbar-container'>
         <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
           GlamHair
-          <img src={process.env.PUBLIC_URL + '/images/logo.png'} alt="logo" className='imglogo' />
+          <img src={process.env.PUBLIC_URL + '/images/logo1.png'} alt="logo" className='imglogo' />
         </Link>
         <div className='menu-icon' onClick={handleClick}>
           <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
