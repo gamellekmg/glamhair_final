@@ -67,7 +67,7 @@ function Footer() {
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>Glamhair © 2023</small>
+          <small class='website-rights'>Glamhair © 2024</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
