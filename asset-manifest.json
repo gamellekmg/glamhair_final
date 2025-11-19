@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glamhair_final/static/css/main.712cb84d.css",
-    "main.js": "/glamhair_final/static/js/main.0a6c7a4d.js",
+    "main.js": "/glamhair_final/static/js/main.8fd01917.js",
     "static/js/453.81cbd2e5.chunk.js": "/glamhair_final/static/js/453.81cbd2e5.chunk.js",
     "static/media/homevideo.mov": "/glamhair_final/static/media/homevideo.e26779374b9d6bbfe61c.mov",
     "static/media/wig3.png": "/glamhair_final/static/media/wig3.f55227ba57de828fee15.png",
@@ -16,11 +16,11 @@
     "index.html": "/glamhair_final/index.html",
     "static/media/getFetch.cjs": "/glamhair_final/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.712cb84d.css.map": "/glamhair_final/static/css/main.712cb84d.css.map",
-    "main.0a6c7a4d.js.map": "/glamhair_final/static/js/main.0a6c7a4d.js.map",
+    "main.8fd01917.js.map": "/glamhair_final/static/js/main.8fd01917.js.map",
     "453.81cbd2e5.chunk.js.map": "/glamhair_final/static/js/453.81cbd2e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.712cb84d.css",
-    "static/js/main.0a6c7a4d.js"
+    "static/js/main.8fd01917.js"
   ]
 }
