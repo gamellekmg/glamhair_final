@@ -44,5 +44,3 @@ npm start
 The app runs on http://localhost:3000.
 
 
-├── index.js
-└── styles/
